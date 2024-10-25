@@ -9,6 +9,6 @@
 ## SNS等
 |   |  |
 | ------------- | ------------- | 
-|[![Twitter](https://img.shields.io/badge/-twitter-black.svg?logo=x&style=for-the-badge)](https://twitter.com/ryo_001339) 
-|[![Discord](https://img.shields.io/badge/-discord-black.svg?logo=discord&style=for-the-badge)](https://discord.gg/ESRGwGQhxc) 
-|[![Youtube](https://img.shields.io/badge/-youtube-black.svg?logo=youtube&style=for-the-badge)](https://www.youtube.com/@00139-ryo) | https://img.shields.io/youtube/channel/views/UCxYWYOxP6D506jG9wrjJKJQ |
+|[![Twitter](https://img.shields.io/badge/-twitter-black.svg?logo=x&style=for-the-badge)](https://twitter.com/ryo_001339) |![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ryo_00139)|
+|[![Discord](https://img.shields.io/badge/-discord-black.svg?logo=discord&style=for-the-badge)](https://discord.gg/ESRGwGQhxc) |
+|[![Youtube](https://img.shields.io/badge/-youtube-black.svg?logo=youtube&style=for-the-badge)](https://www.youtube.com/@00139-ryo) | ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCxYWYOxP6D506jG9wrjJKJQ) |
