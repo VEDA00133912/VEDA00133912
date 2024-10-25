@@ -1,16 +1,14 @@
-## Hi there 👋
+## About VEDA00133912
+他媒体ではりょうという名前で活動してます
 
-<!--
-**VEDA00133912/VEDA00133912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My skills
+基本的にjsを使って色々やってます。
+サイト作るのにHTMLとかも多少触ってます
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,node.js)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## SNS等
+|   |  |
+| ------------- | ------------- | 
+[![Twitter](https://img.shields.io/badge/-twitter-black.svg?logo=x&style=for-the-badge)](https://twitter.com/ryo_001339) 
+[![Discord](https://img.shields.io/badge/-discord-black.svg?logo=discord&style=for-the-badge)](https://discord.gg/ESRGwGQhxc) 
+[![Youtube](https://img.shields.io/badge/-youtube-black.svg?logo=x&style=for-the-badge)](https://www.youtube.com/@00139-ryo) 
