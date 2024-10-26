@@ -4,7 +4,7 @@
 ## My skills
 基本的にjsを使って色々やってます。
 サイト作るのにHTMLとかも多少触ってます<br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,node.js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,node)](https://skillicons.dev)
 
 ## SNS等
 |   |  |
