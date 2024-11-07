@@ -6,6 +6,8 @@
 基本的にjsを使って色々やってます。
 サイト作るのにHTMLとかも多少触ってます<br><br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,discord,bots,discordjs,twitter,instagram,github)](https://skillicons.dev)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=VEDA001339&show_icons=true&theme=algolia)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=VEDA001339&layout=compact&theme=algolia)
 
 ## SNS等
 |   |  |
