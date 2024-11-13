@@ -4,7 +4,7 @@ I'm a frequent user of javascript😎
 
 ## 🌱My skills & Activities
 Basically JS and HTML, but can also do a little python and go<br><br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,go,discord,bots,discordjs,twitter,instagram,github)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,go,c,c++,c#,discord,bots,discordjs,twitter,instagram,github&perline=8)](https://skillicons.dev)<br>
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=VEDA00133912&show_icons=true&theme=algolia&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=VEDA00133912&layout=compact&theme=cobalt&show_icons=true)
 
