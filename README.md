@@ -14,5 +14,5 @@ Basically JS and HTML, but can also do a little python and go<br><br>
 - ***My Account***<br>
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=1095869643106828289)<br>
 - ***My Servers***<br>
-<a href="https://discord.gg/ESRGwGQhxc" target="_blank"><img src="https://discord.com/api/guilds/1236312291700510720/widget.png?style=banner3" alt="Discord Banner"/></a><br>
+<a href="https://discord.gg/ESRGwGQhxc" target="_blank"><img src="https://discord.com/api/guilds/1236312291700510720/widget.png?style=banner3" alt="Discord Banner"/></a>
 <a href="https://discord.gg/Ftz4Tcs8tR" target="_blank"><img src="https://discord.com/api/guilds/1244116007233130558/widget.png?style=banner3" alt="Discord Banner"/></a>
