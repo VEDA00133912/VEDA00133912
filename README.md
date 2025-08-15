@@ -15,4 +15,4 @@ JSをよく使っています<br><br>
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=1317692759448223808)<br>
 - ***My Servers***<br>
 <a href="https://discord.gg/ESRGwGQhxc" target="_blank"><img src="https://discord.com/api/guilds/1236312291700510720/widget.png?style=banner3" alt="Discord Banner"/></a>
-<a href="https://discord.gg/Ftz4Tcs8tR" target="_blank"><img src="https://discord.com/api/guilds/1244116007233130558/widget.png?style=banner3" alt="Discord Banner"/></a>
+<a href="https://discord.gg/CytkCY2zpf" target="_blank"><img src="https://discord.com/api/guilds/1327953028619304981/widget.png?style=banner3" alt="Discord Banner"/></a>
