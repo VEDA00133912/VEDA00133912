@@ -14,5 +14,5 @@ JSをよく使っています。他はちょっとしか使えないです
 - **My Account**  
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=1317692759448223808)  
 - **My Servers**  
-<a href="https://discord.gg/ESRGwGQhxc" target="_blank"><img src="https://discord.com/api/guilds/1236312291700510720/widget.png?style=banner3" alt="Discord Banner"/></a>
-<a href="https://discord.gg/CytkCY2zpf" target="_blank"><img src="https://discord.com/api/guilds/1327953028619304981/widget.png?style=banner3" alt="Discord Banner"/></a>
+<a href="https://discord.gg/ESRGwGQhxc" target="_blank"><img src="https://discord-invitecard-generator.onrender.com/api/invite-card?invite=discord.gg/ESRGwGQhxc" alt="Discord Banner"/></a>  
+<a href="https://discord.gg/CytkCY2zpf" target="_blank"><img src="https://discord-invitecard-generator.onrender.com/api/invite-card?invite=discord.gg/CytkCY2zpf" alt="Discord Banner"/></a>
